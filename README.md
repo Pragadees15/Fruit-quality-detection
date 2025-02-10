@@ -1,4 +1,4 @@
-#Fruit Quality Prediction using Deep Learning
+**Fruit Quality Prediction using Deep Learning**
 
 Abstract
 
